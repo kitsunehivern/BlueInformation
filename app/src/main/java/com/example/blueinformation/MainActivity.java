@@ -32,14 +32,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             setContentView(R.layout.main_activity_portrait);
         }
 
-        Button buttonVoiceline = findViewById(R.id.ButtonVoiceline);
-        Button buttonTelephone = findViewById(R.id.ButtonTelephone);
-        Button buttonWebsite = findViewById(R.id.ButtonWebsite);
-
-        buttonVoiceline.setOnClickListener(this);
-        buttonTelephone.setOnClickListener(this);
-        buttonWebsite.setOnClickListener(this);
-
         super.onConfigurationChanged(newConfig);
     }
 

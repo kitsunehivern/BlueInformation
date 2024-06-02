@@ -91,6 +91,7 @@
                     android:textSize="20sp"
                     android:fontFamily="@font/open_sans_semibold"
                     android:backgroundTint="@color/light_blue"
+                    android:onClick="onClickButton"
                     android:layout_weight="1"/>
 
                 <Button
@@ -102,6 +103,7 @@
                     android:textSize="20sp"
                     android:fontFamily="@font/open_sans_semibold"
                     android:backgroundTint="@color/light_blue"
+                    android:onClick="onClickButton"
                     android:layout_weight="1"/>
 
                 <Button
@@ -113,6 +115,7 @@
                     android:textSize="20sp"
                     android:fontFamily="@font/open_sans_semibold"
                     android:backgroundTint="@color/light_blue"
+                    android:onClick="onClickButton"
                     android:layout_weight="1"/>
             </LinearLayout>
         </LinearLayout>
@@ -138,7 +141,7 @@
                     android:textSize="20sp" />
 
                 <ImageView
-                    android:layout_width="match_parent"
+                    android:layout_width="300dp"
                     android:layout_height="wrap_content"
                     android:src="@drawable/sprite"
                     android:adjustViewBounds="true"
