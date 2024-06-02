@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blue Information</string>
+    <string name="student_intro">Student Intro</string>
+    <string name="full_name">Takanashi Hoshino</string>
+    <string name="basic_info">
+        - School: Abydos High School\n
+        - Class: 3rd Year\n
+        - Club: Foreclosure Task Force\n
+        - Age: 17\n
+        - Birthday: January 2nd\n
+        - Height: 145cm\n
+        - Hobbies: Taking naps, procrastinating
+    </string>
+    <string name="introduction">- Introduction: Takanashi Hoshino is the former vice president and the only third-year of Abydos High School, and the current chairwoman for the Foreclosure Task Force.\n</string>
+    <string name="personality">- Personality: Speaking like a senile aunt, she enjoys playing around and napping more than work. Because of this, she usually gets scolded by the rest of the club. But, once the mission starts, she protects her comrades by fighting valiantly on the front lines.</string>
+    <string name="appearance">- Appearance: She has pink hair with a cowlick reaching to her legs. She has heterochromia of blue and orange eyes.</string>
+    <string name="halo">- Halo: Hoshino\'s halo has a pink eye-like circle with an outer line curved around and ends with a strip line.</string>
+    <string name="uniform">- Uniform: She wears the Abydos uniform although in a relaxed, lazy style in comparison to her fellow pupils. Unlike Shiroko, Serika, and Ayane, Hoshino forgoes the blazer and has the top two shirt buttons undone and her tie quite loose. She also wears a pair of fingerless gloves and wears a buckled, tactical brace. Below she tucks her shirt into a black and grey pleated skirt, a pair of white socks, and a pair of navy blue sneakers with white laces and soles. Her hands are covered with black tracking gloves and carry her fold-up riot shield with a white strap.</string>
+    <string name="firearm">- Firearm: She uses a two-tone Beretta 1301 Tactical semi-automatic shotgun with a black vent ribbed 21" Comp barrel, bolt carrier, and tubular magazine with a +3 Nordic Extension Tube. The rest of the firearm is painted white with pink accents. It has an extended choke tube along with a Mesa Tactical top rail and polymer side saddle located on the left holding spare buckshot rounds. The Abydos insignia is imprinted on the cheek rest. For her EX-Skill she deploys the "Iron Horus". A collapsible ballistic shield that houses several more buckshot rounds and a backup Beretta 92FS pistol.</string>
+</resources>
