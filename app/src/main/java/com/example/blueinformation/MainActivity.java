@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void onClickTelephone(View view) {
-        String number = "tel:202-324-3000";
+        String number = "tel:1-202-324-3000";
         Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse(number));
         startActivity(intent);
     }
